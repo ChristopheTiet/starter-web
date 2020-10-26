@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Christopeh Tiet christophe.tiet@epitech.eu @admin
 
 # THANKS
 
